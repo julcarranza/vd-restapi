@@ -1,0 +1,24 @@
+#Analytics cluster variables
+'ac':
+  - 'name': 'analytics02'
+    'collectorport': '10232'
+    'collectorip': '192.168.13.222'
+    'northboundip': '10.48.85.222'
+    'northboundport': '8080'
+  - 'name': 'analytics03'
+    'collectorport': '10233'
+    'collectorip': '192.168.13.223'
+    'northboundip': '10.48.85.223'
+    'northboundport': '8080'
+  - 'name': 'analytics04'
+    'collectorport': '10234'
+    'collectorip': '192.168.13.224'
+    'northboundip': '10.48.85.224 '
+    'northboundport': '8080'
+  - 'name': 'analytics05'
+    'collectorport': '10235'
+    'collectorip': '192.168.13.225'
+    'northboundip': '10.48.85.225'
+    'northboundport': '8080'
+
+
