@@ -1,6 +1,11 @@
 python module for Versa Director REST APIs
 =========================================
 
+* Three files used:
+  * jcVDmodule.py: Python module with analytics-cluster class for post, put, get, delete operations
+  * analytics.yml: Yaml file for readable cluster data
+  * Analyticscluster.py Python script to specify operation and read yaml file and convert to python dictionary
+
 *REST API Status and Error Codes*
 
 |Code |Description            |
